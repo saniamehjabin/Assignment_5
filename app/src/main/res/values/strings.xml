@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Assignment_5</string>
+
+    <string-array name="animals">
+        <item>Ferret</item>
+        <item>Otter</item>
+        <item>Hamster</item>
+        <item>Raccoon</item>
+        <item>Red Panda</item>
+        <item>Meerkat</item>
+    </string-array>
+
+
+
+</resources>
